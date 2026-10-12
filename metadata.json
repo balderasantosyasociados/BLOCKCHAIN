@@ -1,0 +1,7 @@
+{
+  "name": "SITA-BLOCKCHAIN - Cámara de Cuentas RD",
+  "description": "Sistema Integral de Trazabilidad de Auditorías Gubernamentales basado en Blockchain Hyperledger Fabric, IA Gemini y Normas ISSAI para la República Dominicana.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
